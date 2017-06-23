@@ -1,0 +1,47 @@
+button {
+	padding: 2%;
+	margin: 2%;
+	width: 50%;
+	font-size: 140%;
+}
+
+button:hover {
+	background-color: lightgreen;
+}
+
+h3 {
+	text-align: center;
+}
+
+img {
+	width: 250px;
+}
+
+.container {
+	max-width: 500px;
+}
+
+#question {
+	padding: 0 0 5% 0;
+}
+
+#options {
+	margin: auto;
+    width: 100%;
+}
+
+#timer {
+	font-size: 250%;
+	font-weight: bold;
+	color: green;
+}
+
+#rightAnswer {
+	font-size: 180%;
+	color: green;
+}
+
+#wrongAnswer {
+	font-size: 180%;
+	color: red;
+}
